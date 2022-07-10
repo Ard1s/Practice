@@ -1,4 +1,0 @@
-﻿  main.c
-C:\Users\nasty\source\repos\Practice_1\Practice_1\main.c(29,19): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\nasty\source\repos\Practice_1\Practice_1\main.c(31,18): warning C4018: <: несоответствие типов со знаком и без знака
-  Practice_1.vcxproj -> C:\Users\nasty\source\repos\Practice_1\Debug\Practice_1.exe
