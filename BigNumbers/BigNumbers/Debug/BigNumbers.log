@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\nasty\OneDrive\Рабочий стол\BigNumbers\BigNumbers\main.c(15,14): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\nasty\OneDrive\Рабочий стол\BigNumbers\BigNumbers\main.c(22,16): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[256]"
+C:\Users\nasty\OneDrive\Рабочий стол\BigNumbers\BigNumbers\main.c(22,12): warning C4024: new: различные типы для формального и фактического параметров 2
+  BigNum.c
+C:\Users\nasty\OneDrive\Рабочий стол\BigNumbers\BigNumbers\BigNum.c(10,24): warning C4013: strlen: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\nasty\OneDrive\Рабочий стол\BigNumbers\BigNumbers\BigNum.c(26,26): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\nasty\OneDrive\Рабочий стол\BigNumbers\BigNumbers\BigNum.c(28,27): warning C4013: realloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\nasty\OneDrive\Рабочий стол\BigNumbers\BigNumbers\BigNum.c(81,35): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\nasty\OneDrive\Рабочий стол\BigNumbers\BigNumbers\BigNum.c(88,10): warning C4098: add: функция типа "void", возвращающая значение
+C:\Users\nasty\OneDrive\Рабочий стол\BigNumbers\BigNumbers\BigNum.c(113,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nasty\OneDrive\Рабочий стол\BigNumbers\BigNumbers\BigNum.c(120,10): warning C4098: sub: функция типа "void", возвращающая значение
+  Создание кода...
+  BigNumbers.vcxproj -> C:\Users\nasty\OneDrive\Рабочий стол\BigNumbers\Debug\BigNumbers.exe

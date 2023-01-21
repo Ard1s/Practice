@@ -1,0 +1,16 @@
+﻿  main.c
+c:\projects\c++ winapi\2\bignumbers\bignumbers\main.c(15): warning C4013: 'getch' undefined; assuming extern returning int
+c:\projects\c++ winapi\2\bignumbers\bignumbers\main.c(22): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[256]'
+c:\projects\c++ winapi\2\bignumbers\bignumbers\main.c(22): warning C4024: 'new': different types for formal and actual parameter 2
+  BigNum.c
+c:\projects\c++ winapi\2\bignumbers\bignumbers\bignum.c(10): warning C4018: '<': signed/unsigned mismatch
+c:\projects\c++ winapi\2\bignumbers\bignumbers\bignum.c(26): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\projects\c++ winapi\2\bignumbers\bignumbers\bignum.c(28): warning C4013: 'realloc' undefined; assuming extern returning int
+c:\projects\c++ winapi\2\bignumbers\bignumbers\bignum.c(81): warning C4018: '>': signed/unsigned mismatch
+c:\projects\c++ winapi\2\bignumbers\bignumbers\bignum.c(88): warning C4098: 'add': 'void' function returning a value
+c:\projects\c++ winapi\2\bignumbers\bignumbers\bignum.c(113): warning C4018: '<': signed/unsigned mismatch
+c:\projects\c++ winapi\2\bignumbers\bignumbers\bignum.c(120): warning C4098: 'sub': 'void' function returning a value
+  Generating code
+  Finished generating code
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  BigNumbers.vcxproj -> C:\Projects\C++ WinApi\2\BigNumbers\Release\BigNumbers.exe
